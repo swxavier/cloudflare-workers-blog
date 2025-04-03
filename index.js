@@ -1,8 +1,8 @@
 'use strict';
 const OPT = {
-    "user" : "admin", //后台密码请修改
-    "password" : "yourSelfPwd", //后台密码
-    "siteDomain" : "blog.gezhong.vip",// 域名(不带https 也不带/)
+    "user" : "admin1", //后台密码请修改
+    "password" : "918918Cpsz.", //后台密码
+    "siteDomain" : "www.torahe.com",// 域名(不带https 也不带/)
     "siteName" : "CF workers blog",//博客名称
     "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
     "keyWords":"cloudflare,KV,workers,blog",//关键字
